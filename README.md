@@ -66,9 +66,6 @@ As a Senior Flutter Developer, I bridge the gap between complex business logic a
 [![Phone](https://img.shields.io/badge/Phone-Contact-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918828767828)
 
 ---
-*“I don’t just write code; I architect solutions that scale and perform.”*
-
----
 <p align="center">
   <i>"Good code is not just code that works; it's code that can be maintained by a team for years."</i><br>
   <i>"Optimization is about empathy for the user on low-end devices."</i><br>
