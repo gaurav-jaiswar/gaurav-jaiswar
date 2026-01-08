@@ -69,6 +69,6 @@ As a Senior Flutter Developer, I bridge the gap between complex business logic a
 <p align="center">
   <i>"Good code is not just code that works; it's code that can be maintained by a team for years."</i><br>
   <i>"Optimization is about empathy for the user on low-end devices."</i><br>
-  <i>"Clean Architecture is an investment that pays interest every single sprint."</i>
+  <i>"Clean Architecture is an investment that pays interest every single sprint."</i><br>
   <i>“I don’t just write code; I architect solutions that scale and perform.”</i>
 </p>
